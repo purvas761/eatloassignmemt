@@ -1,0 +1,49 @@
+
+body{
+	bodyground-color:white;
+}
+*{
+	margin:0;
+	padding:0;
+	
+	
+}
+
+
+
+
+
+#wrapper{
+	border:1px solid;
+	width:970px;
+	margin:auto;
+	background color:white;
+}
+
+#header{
+	border:1px solid;
+	width:100%;
+	background-color:red;
+	cell-padding:
+	font-family:Italic;
+    margin:auto;
+	text-align:center;
+
+}
+
+#header ul li{
+	text-align:left;
+	font-color:white;
+}
+
+#location{
+	text-align:center;
+	
+}
+
+#bodypart ul li hover{
+	background-color: pink;
+}
+
+
+
